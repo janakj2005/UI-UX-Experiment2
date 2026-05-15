@@ -1,23 +1,23 @@
-### Aim:
+## Aim:
 To design a basic mobile and web layout for the Coffee Café & Resto case study by applying Gestalt principles, incorporating UI elements and design patterns, developing interaction behaviours and usability principles, and creating a brand logo using Canva.
 
-### Algorithm:
+## Algorithm:
 1. Apply Gestalt principles to enhance the mobile and web layout design.
 2. Incorporate UI elements and design patterns into the layouts.
 3. Develop interaction behaviours and usability principles for the designs.
 4. Create a brand logo using Canva following styling and branding guidelines.
 5. Include the created logo in both mobile and web layouts.
 
-### Output:
+## Output:
 ## Q1. How can Gestalt principles be applied to enhance mobile and web layout design?
 
 Gestalt principles improve the visual structure and usability of a design by organizing content in a meaningful way.
 
-• Proximity: Related items such as menu categories and product cards are grouped together.
-• Similarity: Buttons, icons, and text styles use consistent colors, shapes, and fonts.
-• Continuity: Elements are aligned to guide the user's eye naturally through the interface.
-• Closure: Cards and section borders help users perceive grouped content.
-• Figure-Ground: Important elements such as the logo and call-to-action buttons stand out clearly from the background.
+### • Proximity: Related items such as menu categories and product cards are grouped together.
+### • Similarity: Buttons, icons, and text styles use consistent colors, shapes, and fonts.
+### • Continuity: Elements are aligned to guide the user's eye naturally through the interface.
+### • Closure: Cards and section borders help users perceive grouped content.
+### • Figure-Ground: Important elements such as the logo and call-to-action buttons stand out clearly from the background.
 
 ## Q2. How do you incorporate UI elements and design patterns into the layouts?
 
