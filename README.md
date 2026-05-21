@@ -1,66 +1,32 @@
+# UI-UX-Experiment2
+
 ## Aim:
-To design a basic mobile and web layout for the Coffee Café & Resto case study by applying Gestalt principles, incorporating UI elements and design patterns, developing interaction behaviours and usability principles, and creating a brand logo using Canva.
+
+To design a basic mobile and web UI layout for the CityPulse application using Canva by applying UI/UX principles and branding.
 
 ## Algorithm:
-1. Apply Gestalt principles to enhance the mobile and web layout design.
-2. Incorporate UI elements and design patterns into the layouts.
-3. Develop interaction behaviours and usability principles for the designs.
-4. Create a brand logo using Canva following styling and branding guidelines.
-5. Include the created logo in both mobile and web layouts.
+
+Step 1: Apply Gestalt principles to enhance mobile and web layout design.
+
+Step 2: Incorporate UI elements and design patterns into the layouts.
+
+Step 3: Develop interaction behaviors and usability principles for the designs.
+
+Step 4: Create a brand logo using Canva, following styling and branding guidelines and include it with your layouts.
 
 ## Output:
-## Q1. How can Gestalt principles be applied to enhance mobile and web layout design?
+### Logo:
 
-Gestalt principles improve the visual structure and usability of a design by organizing content in a meaningful way.
+<img width="2000" height="2000" alt="“city skyline”" src="https://github.com/user-attachments/assets/f445fdcf-7e1a-42e3-88ba-32f0f29c2d64" />
 
-### • Proximity: Related items such as menu categories and product cards are grouped together.
-### • Similarity: Buttons, icons, and text styles use consistent colors, shapes, and fonts.
-### • Continuity: Elements are aligned to guide the user's eye naturally through the interface.
-### • Closure: Cards and section borders help users perceive grouped content.
-### • Figure-Ground: Important elements such as the logo and call-to-action buttons stand out clearly from the background.
+### Mobile layout design:
 
-## Q2. How do you incorporate UI elements and design patterns into the layouts?
+<img width="414" height="896" alt="Hello,User" src="https://github.com/user-attachments/assets/8d587771-4df5-4da3-959f-8c0302608b40" />
 
-UI elements and design patterns make the layout familiar and easy to use.
+### Web layout design:
 
-• Navigation Menu: Top navigation bar on the website and bottom navigation bar on mobile.
-• Search Bar: Helps users quickly find menu items.
-• Cards: Used to display coffee products and offers.
-• Buttons: “Order Now”, “View Menu”, and “Contact Us”.
-• Forms: Reservation and feedback forms.
-• Design Patterns: Hero section, product grid, and responsive layouts.
-
-## Q3. How are interaction behaviours and usability principles developed in the designs?
-
-Interaction behaviours improve responsiveness, while usability principles ensure ease of use.
-
-Interaction Behaviours
-• Hover effects on buttons and cards.
-• Click and tap feedback.
-• Smooth scrolling between sections.
-• Active menu highlighting.
-
-Usability Principles
-• Consistency: Same design style throughout the interface.
-• Readability: Clear fonts and sufficient spacing.
-• Accessibility: High contrast and easy-to-click elements.
-• Responsiveness: Adapts to mobile, tablet, and desktop screens.
-• Efficiency: Important actions are easy to access.
-
-## Q4. How do you create a brand logo using Canva and include it in your layouts?
-• Open Canva and select a logo template.
-• Add a coffee bean background image.
-• Insert a steaming coffee cup icon.
-• Use stylish typography for the word “Coffee”.
-• Add the subtitle “Café & Resto”.
-• Apply brown and cream colors.
-• Download the logo as a PNG file.
-• Place the logo in the header section of both mobile and web layouts.
-
-## Logo:
-
-<img width="470" height="586" alt="image" src="https://github.com/user-attachments/assets/d4e068f1-40af-45f9-b292-9dc0ec3a42f6" />
-
+<img width="1536" height="1024" alt="web" src="https://github.com/user-attachments/assets/8cc7cac1-3822-4493-b717-2f8c6adba1ea" />
 
 ## Result:
-The basic mobile and web layouts for the Coffee Café & Resto case study were successfully designed by applying Gestalt principles, incorporating UI elements and design patterns, implementing interaction behaviours and usability principles, and creating a professional brand logo using Canva.
+
+A simple and modern mobile and web UI layout for CityPulse was successfully created with proper branding, UI elements, and usability principles.
