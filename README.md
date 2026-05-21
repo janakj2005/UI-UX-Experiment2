@@ -15,15 +15,15 @@ Step 3: Develop interaction behaviors and usability principles for the designs.
 Step 4: Create a brand logo using Canva, following styling and branding guidelines and include it with your layouts.
 
 ## Output:
-### Logo:
+## Logo:
 
 <img width="2000" height="2000" alt="“city skyline”" src="https://github.com/user-attachments/assets/f445fdcf-7e1a-42e3-88ba-32f0f29c2d64" />
 
-### Mobile layout design:
+## Mobile layout design:
 
 <img width="414" height="896" alt="Hello,User" src="https://github.com/user-attachments/assets/8d587771-4df5-4da3-959f-8c0302608b40" />
 
-### Web layout design:
+## Web layout design:
 
 <img width="1536" height="1024" alt="web" src="https://github.com/user-attachments/assets/8cc7cac1-3822-4493-b717-2f8c6adba1ea" />
 
