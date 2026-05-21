@@ -1,4 +1,7 @@
-# UI-UX-Experiment2
+# UI/UX - Experiment2
+
+## NAME : JANARTHANAN K
+## REG.NO : 212223040072
 
 ## Aim:
 
